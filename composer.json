@@ -1,0 +1,7 @@
+{
+    "name": "root/app",
+    "require": {
+        "phpunit/phpunit": "^9.5",
+        "guzzlehttp/guzzle": "^7.3"
+    }
+}
